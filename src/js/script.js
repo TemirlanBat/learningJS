@@ -48,10 +48,10 @@ const Snum = '22',
 let count = +Snum + num;
 console.log(count);
 
-let isChecked = true,
+let isCheckedd = true,
     isClose = false;
-    if(isChecked || isClose){
-        console.log(isChecked);
+    if(isCheckedd || isClose){
+        console.log(isCheckedd);
     }
     else{
         console.log(isClose);
