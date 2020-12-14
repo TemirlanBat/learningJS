@@ -47,3 +47,14 @@ const Snum = '22',
     num = 54;
 let count = +Snum + num;
 console.log(count);
+
+let isChecked = true,
+    isClose = false;
+    if(isChecked || isClose){
+        console.log(isChecked);
+    }
+    else{
+        console.log(isClose);
+    }
+
+
